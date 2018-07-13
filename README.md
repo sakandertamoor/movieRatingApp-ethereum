@@ -3,9 +3,13 @@
 
 #Steps:
 git clone https://github.com/sakandertamoor/movieRatingApp-ethereum.git dapp 
+
 cd dapp
+
 cd appui 
+
 npm install
+
 npm start
 
 
